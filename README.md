@@ -1,2 +1,2 @@
 # huffman
-Data compression using Huffman decoding.
+Data compression using Huffman decoding
