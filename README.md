@@ -1,2 +1,2 @@
 # huffman
-Use Huffman decoding to compress files
+The Huffman decoding to compress files implemented using python
